@@ -21,10 +21,10 @@ nox 是一个命令行工具，可以在多个 Python 环境中作自动化测�
 
 - [ ] 欢迎使用 Nox
 - [x] [教程](https://github.com/chinesehuazhou/nox_doc_cn/blob/master/Nox%20%E6%95%99%E7%A8%8B.md)
-- [ ] 配置与API
-- [ ] 命令行用法
-- [ ] 贡献
-- [ ] 更新日志
+- [x] [配置与API](https://github.com/chinesehuazhou/nox_doc_cn/blob/master/Nox%20%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%20API.md)
+- [x] [命令行用法](https://github.com/chinesehuazhou/nox_doc_cn/blob/master/Nox%20%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%94%A8%E6%B3%95.md)
+- [x] [贡献](https://github.com/chinesehuazhou/nox_doc_cn/blob/master/%E8%B4%A1%E7%8C%AE.md)
+- [x] 更新日志--不译
 
 ## 其它有用附录
 
