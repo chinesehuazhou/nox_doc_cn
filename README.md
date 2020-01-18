@@ -28,5 +28,5 @@ nox 是一个命令行工具，可以在多个 Python 环境中作自动化测�
 
 ## 其它有用附录
 
-- Thea Flowers 在 Pycon 的演讲：[https://www.youtube.com/watch?v=-BHverY7IwU](https://www.youtube.com/watch?v=-BHverY7IwU)
+- Thea Flowers 在 Pycon 的演讲：[Break the Cycle: Three excellent Python tools to automate repetitive tasks](https://www.youtube.com/watch?v=-BHverY7IwU)
 - ……
